@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Calc & AI Solver",
+  "description": "A high-precision standard calculator integrated with Gemini 2.5 Flash for solving complex natural language math word problems.",
+  "requestFramePermissions": []
+}
